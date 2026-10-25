@@ -10,7 +10,7 @@ from email.message import EmailMessage
 
 # Email Configuration
 SENDER_EMAIL = "raginimohite2011@gmail.com"
-SENDER_PASSWORD = "wkqhuixeuzajjmyz"
+SENDER_PASSWORD = "abcdefghijklm"
 RECEIVER_EMAIL = "hrishikharade096@gmail.com"
 
 # Logging Configuration
