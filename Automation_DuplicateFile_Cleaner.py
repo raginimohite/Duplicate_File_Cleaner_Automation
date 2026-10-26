@@ -9,9 +9,9 @@ from datetime import datetime
 from email.message import EmailMessage
 
 # Email Configuration
-SENDER_EMAIL = "raginimohite2011@gmail.com"
+SENDER_EMAIL = "XYZ@gmail.com"
 SENDER_PASSWORD = "abcdefghijklm"
-RECEIVER_EMAIL = "hrishikharade096@gmail.com"
+RECEIVER_EMAIL = "ABC@gmail.com"
 
 # Logging Configuration
 logging.basicConfig(
