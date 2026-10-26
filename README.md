@@ -27,7 +27,7 @@ How to Run
 2. Configure email credentials.
 3. Set the target directory in the code.
 4. Run the script:
-   "python main.py"
+   "Automation_DuplicateFile_Cleaner.py"
 
 Note
 
